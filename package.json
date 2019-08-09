@@ -1,0 +1,36 @@
+{
+  "name": "stack",
+  "version": "1.0.0",
+  "description": "“STACK” is a backend API which is aim to develop for manage users in a school website. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kithmi1995/stack-api.git"
+  },
+  "keywords": [
+    "API",
+    "school",
+    "management"
+  ],
+  "author": "Kithmi Ranaweera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kithmi1995/stack-api/issues"
+  },
+  "homepage": "https://github.com/Kithmi1995/stack-api#readme",
+  "dependencies": {
+    "async": "^2.6.2",
+    "bcrypt": "^3.0.5",
+    "bluebird": "^3.5.3",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "express-session": "^1.15.6",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.11",
+    "mongoose": "^5.4.20",
+    "nodemon": "^1.18.10"
+  }
+}
